@@ -1,12 +1,19 @@
-# Emergency Health Services Accessibility in Melbourne: Research Dataset
+# Spatial Disparities in Emergency Service Accessibility for Vulnerable Populations in Melbourne: A Voronoi Tessellation Study
 
 ## Overview
 
-This repository contains the minimal dataset and analysis code for the research paper "Emergency Health Services Accessibility Analysis for Melbourne, Victoria". The dataset includes all essential data and scripts necessary to reproduce the findings presented in the paper.
+This repository contains the minimal dataset and analysis code for the research paper "Spatial Disparities in Emergency Service Accessibility for Vulnerable Populations in Melbourne: A Voronoi Tessellation Study". The dataset includes all essential data and scripts necessary to reproduce the findings presented in the paper.
 
 ## Authors
 
-[Please add your author information here]
+- **Mohammad Afzal Khan** - Faculty of Information Technology, Monash University, Melbourne, VIC 3800, Australia
+- **Oyelola Adegboye** - Menzies School of Health Research, Charles Darwin University, Darwin, NT 0800, Australia
+- **Shiyang Lyu** - Faculty of Information Technology, Monash University, Melbourne, VIC 3800, Australia
+- **Kiki Maulana Adhinugraha** - School of Computing and Information Technology, La Trobe University, Melbourne, VIC 3086, Australia
+- **Theophilus I. Emeto** - Australian Institute of Tropical Health and Medicine & WHO Collaborating Centre for Vector-Borne and Neglected Tropical Diseases, James Cook University, Townsville, QLD 4811, Australia
+- **David Taniar** - Faculty of Information Technology, Monash University, Melbourne, VIC 3800, Australia
+
+**Corresponding Author**: Theophilus I. Emeto (theophilus.emeto@jcu.edu.au)
 
 ## Abstract
 
@@ -100,7 +107,9 @@ The analysis employs:
 If you use this dataset in your research, please cite:
 
 ```
-[Your citation information here]
+Khan, M.A.; Adegboye, O.; Lyu, S.; Adhinugraha, K.M.; Emeto, T.I.; Taniar, D. 
+Spatial Disparities in Emergency Service Accessibility for Vulnerable Populations 
+in Melbourne: A Voronoi Tessellation Study. [Journal Name] 2024, [Volume], [Pages].
 ```
 
 ## License
@@ -112,7 +121,8 @@ Census data © Commonwealth of Australia (Australian Bureau of Statistics) 2021.
 ## Contact
 
 For questions or issues regarding this dataset:
-- Email: [Your email]
+- Email: mkha0168@student.monash.edu (Mohammad Afzal Khan)
+- Corresponding Author: theophilus.emeto@jcu.edu.au (Theophilus I. Emeto)
 - Issues: Use the GitHub issue tracker
 
 ## Acknowledgments

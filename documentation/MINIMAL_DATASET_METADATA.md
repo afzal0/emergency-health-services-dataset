@@ -1,7 +1,7 @@
-# Minimal Dataset for Emergency Health Services Accessibility Study
+# Minimal Dataset for Spatial Disparities in Emergency Service Accessibility Study
 
 ## Overview
-This minimal dataset contains all essential data necessary to reproduce the findings presented in "Emergency Services Accessibility Analysis for Melbourne, Victoria". The dataset includes primary data, processed outputs, analysis scripts, and comprehensive documentation.
+This minimal dataset contains all essential data necessary to reproduce the findings presented in "Spatial Disparities in Emergency Service Accessibility for Vulnerable Populations in Melbourne: A Voronoi Tessellation Study" by Khan et al. The dataset includes primary data, processed outputs, analysis scripts, and comprehensive documentation.
 
 ## Dataset Components
 
@@ -176,11 +176,12 @@ This minimal dataset contains all essential data necessary to reproduce the find
 
 ## Citation
 If using this dataset, please cite:
-[Your paper citation here]
+Khan, M.A.; Adegboye, O.; Lyu, S.; Adhinugraha, K.M.; Emeto, T.I.; Taniar, D. Spatial Disparities in Emergency Service Accessibility for Vulnerable Populations in Melbourne: A Voronoi Tessellation Study. [Journal Name] 2024, [Volume], [Pages].
 
 ## License
 Census data: © Commonwealth of Australia (Australian Bureau of Statistics) 2021
-Analysis outputs: [Your preferred license]
+Analysis outputs: Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
 ## Contact
-[Your contact information]
+- Mohammad Afzal Khan: mkha0168@student.monash.edu
+- Corresponding Author - Theophilus I. Emeto: theophilus.emeto@jcu.edu.au

@@ -47,7 +47,7 @@ Minimal_Dataset/
 
 - **Census Data**: Publicly available from Australian Bureau of Statistics under Creative Commons Attribution 4.0 International licence
 - **Hospital Data**: Publicly available from Victorian Department of Health
-- **Analysis Outputs**: Available under [Your chosen license]
+- **Analysis Outputs**: Available under Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
 No restrictions apply to the data. All personally identifiable information has been removed, and data is aggregated to mesh block level to ensure privacy.
 
@@ -64,8 +64,8 @@ Expected computation time: ~10-15 minutes on standard hardware
 ## Contact for Data Queries
 
 For questions about data access or technical issues:
-- Corresponding Author: [Your name and email]
-- Data Repository Issues: [Repository issue tracker]
+- Corresponding Author: Theophilus I. Emeto (theophilus.emeto@jcu.edu.au)
+- Data Repository Issues: https://github.com/afzal0/emergency-health-services-dataset/issues
 
 ## Compliance Statement
 
@@ -76,4 +76,4 @@ This dataset complies with journal requirements for:
 - Reproducible analysis code
 - Appropriate data licensing
 
-Last Updated: [Current date]
+Last Updated: July 27, 2025
