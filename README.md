@@ -13,7 +13,6 @@ This repository contains the minimal dataset and analysis code for the research 
 - **Theophilus I. Emeto** - Australian Institute of Tropical Health and Medicine & WHO Collaborating Centre for Vector-Borne and Neglected Tropical Diseases, James Cook University, Townsville, QLD 4811, Australia
 - **David Taniar** - Faculty of Information Technology, Monash University, Melbourne, VIC 3800, Australia
 
-**Corresponding Author**: Theophilus I. Emeto (theophilus.emeto@jcu.edu.au)
 
 ## Abstract
 
