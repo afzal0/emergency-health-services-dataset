@@ -61,11 +61,6 @@ To reproduce our findings:
 
 Expected computation time: ~10-15 minutes on standard hardware
 
-## Contact for Data Queries
-
-For questions about data access or technical issues:
--  Author: Mohammad Afzal Khan (mkha0168@student.monash.edu)
-- Data Repository Issues: https://github.com/afzal0/emergency-health-services-dataset/issues
 
 ## Compliance Statement
 
