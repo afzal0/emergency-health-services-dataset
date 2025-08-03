@@ -4,15 +4,6 @@
 
 This repository contains the minimal dataset and analysis code for the research paper "Spatial Disparities in Emergency Service Accessibility for Vulnerable Populations in Melbourne: A Voronoi Tessellation Study". The dataset includes all essential data and scripts necessary to reproduce the findings presented in the paper.
 
-## Authors
-
-- **Mohammad Afzal Khan** - Faculty of Information Technology, Monash University, Melbourne, VIC 3800, Australia
-- **Oyelola Adegboye** - Menzies School of Health Research, Charles Darwin University, Darwin, NT 0800, Australia
-- **Shiyang Lyu** - Faculty of Information Technology, Monash University, Melbourne, VIC 3800, Australia
-- **Kiki Maulana Adhinugraha** - School of Computing and Information Technology, La Trobe University, Melbourne, VIC 3086, Australia
-- **Theophilus I. Emeto** - Australian Institute of Tropical Health and Medicine & WHO Collaborating Centre for Vector-Borne and Neglected Tropical Diseases, James Cook University, Townsville, QLD 4811, Australia
-- **David Taniar** - Faculty of Information Technology, Monash University, Melbourne, VIC 3800, Australia
-
 
 ## Abstract
 
@@ -101,15 +92,6 @@ The analysis employs:
 - Population-weighted accessibility metrics
 - Income-based equity analysis using quartile comparison
 
-## Citation
-
-If you use this dataset in your research, please cite:
-
-```
-Khan, M.A.; Adegboye, O.; Lyu, S.; Adhinugraha, K.M.; Emeto, T.I.; Taniar, D. 
-Spatial Disparities in Emergency Service Accessibility for Vulnerable Populations 
-in Melbourne: A Voronoi Tessellation Study. [Journal Name] 2024, [Volume], [Pages].
-```
 
 ## License
 
@@ -117,12 +99,8 @@ This dataset is made available under the Creative Commons Attribution 4.0 Intern
 
 Census data © Commonwealth of Australia (Australian Bureau of Statistics) 2021.
 
-## Contact
 
-For questions or issues regarding this dataset:
-- Email: mkha0168@student.monash.edu (Mohammad Afzal Khan)
-- Corresponding Author: theophilus.emeto@jcu.edu.au (Theophilus I. Emeto)
-- Issues: Use the GitHub issue tracker
+
 
 ## Acknowledgments
 
