@@ -174,14 +174,9 @@ This minimal dataset contains all essential data necessary to reproduce the find
             └── coverage_distance_band_crosstab.csv
 ```
 
-## Citation
-If using this dataset, please cite:
-Khan, M.A.; Adegboye, O.; Lyu, S.; Adhinugraha, K.M.; Emeto, T.I.; Taniar, D. Spatial Disparities in Emergency Service Accessibility for Vulnerable Populations in Melbourne: A Voronoi Tessellation Study. [Journal Name] 2024, [Volume], [Pages].
+
 
 ## License
 Census data: © Commonwealth of Australia (Australian Bureau of Statistics) 2021
 Analysis outputs: Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
-## Contact
-- Mohammad Afzal Khan: mkha0168@student.monash.edu
-- Corresponding Author - Theophilus I. Emeto: theophilus.emeto@jcu.edu.au
